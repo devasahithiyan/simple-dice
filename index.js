@@ -1,5 +1,4 @@
-var name = prompt("Enter player 1 name");
-var name2 = prompt("Enter player 2 name");
+
 
 var randomvariable = Math.floor(Math.random() * 6) + 1;
 var diceimage = "dice"+randomvariable+".png";
